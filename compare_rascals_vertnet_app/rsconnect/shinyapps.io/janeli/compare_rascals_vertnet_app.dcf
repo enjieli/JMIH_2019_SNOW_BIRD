@@ -1,0 +1,12 @@
+name: compare_rascals_vertnet_app
+title: compare_rascals_vertnet_app
+username:
+account: janeli
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1054133
+bundleId: 2270250
+url: https://janeli.shinyapps.io/compare_rascals_vertnet_app/
+when: 1564265499.03234
+asMultiple: FALSE
+asStatic: FALSE
