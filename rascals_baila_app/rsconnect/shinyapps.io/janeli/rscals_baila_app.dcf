@@ -1,0 +1,12 @@
+name: rscals_baila_app
+title: rscals_baila_app
+username:
+account: janeli
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1054324
+bundleId: 2270687
+url: https://janeli.shinyapps.io/rscals_baila_app/
+when: 1564287415.94911
+asMultiple: FALSE
+asStatic: FALSE
